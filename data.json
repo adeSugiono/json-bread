@@ -1,0 +1,44 @@
+[
+    {
+        "string": "Testing Data",
+        "integer": 12,
+        "float": 1.45,
+        "date": "12 Desember 2017",
+        "boolean": true
+    },
+    {
+        "string": "Coba Lagi",
+        "integer": 99,
+        "float": 100.405,
+        "date": "20 November 2017",
+        "boolean": false
+    },
+    {
+        "string": "Super Sekali",
+        "integer": 0,
+        "float": 1.45,
+        "date": "Kosong",
+        "boolean": false
+    },
+    {
+        "string": "khusni",
+        "integer": 19,
+        "float": 145,
+        "date": "2011-08-19",
+        "boolean": true
+    },
+    {
+        "string": "aaaaaaaaaaaa",
+        "integer": 12,
+        "float": 12222,
+        "date": "12 januari 1991",
+        "boolean": true
+    },
+    {
+        "string": "Xxll",
+        "integer": 12,
+        "float": 12,
+        "date": "2020-11-04",
+        "boolean": true
+    }
+]
